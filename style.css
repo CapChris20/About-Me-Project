@@ -1,0 +1,24 @@
+body{
+    background-image: url(background.jpg);
+}
+
+h1{
+    color: turquoise;
+}
+
+h2{
+color: greenyellow;
+}
+
+h3{
+color: orange; 
+}
+
+pre{
+color: yellow;
+}
+
+a{
+color: yellow;
+}
+
